@@ -93,5 +93,3 @@ npm run build
 ## 📃 License
 
 MIT © 2025 Rahul
-
-```
